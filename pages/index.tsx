@@ -14,8 +14,7 @@ const About: NextPage = () => {
 
   return (
     <div className="flex flex-col flex-grow px-6 pt-1 ">
-      <h6 className="my-3 text-base font-medium">
-      My name is 𝐑𝐨𝐪𝐚𝐢𝐚 𝐀𝐥𝐫𝐟𝐨𝐮 I'm a web developer with +3 years of hands-on experience designing, developing, and implementing applications and solutions using a range of technologies and programming languages. Seeking to leverage broad development experience and hands-on technical expertise in a challenging role as a web developer.
+      <h6 className="my-3 text-base content-name">Roqaia Alrfou, I'm a web developer with +3 years of hands-on experience designing, developing, and implementing applications and solutions using a range of technologies and programming languages. Seeking to leverage broad development experience and hands-on technical expertise in a challenging role as a web developer.
       </h6>
       <div
         className="flex-grow p-4 mt-5 dark:bg-dark-100 "
