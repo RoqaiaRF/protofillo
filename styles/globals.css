@@ -1,0 +1,28 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body {
+   font-family: sans-serif;
+   color: #121213;
+} 
+.contact-l{
+   overflow:hidden;
+}
+.contact-l li{
+   display:inline-block;
+   margin: 10px
+}
+
+.avatar{
+   border-radius: 50%;
+   border: 2px solid #c2c1c1be;
+  
+}
+
+
+/* //TODO put this in document */
+/* body {
+   background-color: black;
+} */
+
