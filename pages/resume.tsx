@@ -14,7 +14,7 @@ const Resume = () => {
             </h5>
             <p className="font-semibold">Tafila Technical University (2015-2019)</p>
             <p className="my-3">
-               I graduated top of my class with distinct level
+               I graduated top of my class with GPA: 84.56%
             </p>
           </div>
         </div>
