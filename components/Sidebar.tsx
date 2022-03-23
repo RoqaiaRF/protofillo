@@ -33,8 +33,8 @@ const Sidebar = () => {
       </p>
       {/* Resume */}
       <a
-        href="/assets/Roqaia Alrfou Resume.pdf"
-        download="Roqaia Alrfou Resume.pdf"
+        href="https://drive.google.com/file/d/14H0tLpfclHwMUNTIem5OYrLfKwBrc6mC/view?usp=sharing"
+        download="Roqaia Alrfou.pdf"
         className="flex items-center justify-center px-2 py-1 my-2 bg-gray-200 rounded-full cursor-pointer dark:bg-dark-200 dark:bg-black-500"
       >
         <GiTie className="w-6 h-6" />
