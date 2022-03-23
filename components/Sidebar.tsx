@@ -29,7 +29,7 @@ const Sidebar = () => {
         <span className="text-green ">Roqaia</span> Alrfou
       </h3>
       <p className="px-2 py-1 my-3 bg-gray-200 rounded-full dark:bg-dark-200 dark:bg-black-500">
-        Web Developer
+        Computer Engineer
       </p>
       {/* Resume */}
       <a
@@ -43,9 +43,12 @@ const Sidebar = () => {
 
       {/* Socials */}
       <div className="flex justify-around w-9/12 mx-auto my-5 text-green md:w-full ">
-        <a href="https://www.youtube.com/channel/UCHoLm_quIjU2uXiL5S1IzCQ">
+        {/* <a href="https://www.youtube.com/channel/UCHoLm_quIjU2uXiL5S1IzCQ">
           <AiFillYoutube className="w-8 h-8 cursor-pointer" color="#FF0000" />
-        </a>
+        </a> */}
+         <a href="mailto:qoraia97@gmail.com">
+              <FcGoogle className="w-8 h-8 cursor-pointer"/>{" "}
+            </a>
         <a href="https://www.linkedin.com/in/roqaia-alrfou-7b9468219/" >
           <AiFillLinkedin className="w-8 h-8 cursor-pointer" color="#0e76a8"/>
         </a>
@@ -62,8 +65,8 @@ const Sidebar = () => {
         <div className="flex items-center justify-center">
           <GoLocation className="mr-2" /> <span>Amman, Jordan </span>
         </div>
-        {/* <p className="my-2 "> roqaia.alrfou3@gmail.com </p>
-        <p className="my-2"> +962799849386</p> */}
+        {/* <p className="my-2 "> qoraia97@gmail.com </p>
+        <p className="my-2"> +96277693130</p> */}
       </div>
 
       {/* Email Button */}
@@ -71,20 +74,22 @@ const Sidebar = () => {
       <p>Contact me </p>
       <div>
         <ul  className="contact-l">
+        <p className="my-2 "> qoraia97@gmail.com </p>
+        <p className="my-2"> +96277693130</p>
           <li>
-            <a href="https://t.me/RoqaiaRF">
+            {/* <a href="https://t.me/RoqaiaRF">
               <FaTelegramPlane className="w-8 h-8 cursor-pointer" color="#229ED9" />{" "}
-            </a>
+            </a> */}
           </li>
           <li>
-            <a href="https://wa.me/+962799849386">
+            {/* <a href="https://wa.me/+962799849386">
              <ImWhatsapp className="w-8 h-8 cursor-pointer" color="#25D366" />{" "}
-            </a>
+            </a> */}
           </li>
           <li>
-            <a href="mailto:qoraia97@gmail.com">
+            {/* <a href="mailto:qoraia97@gmail.com">
               <FcGoogle className="w-8 h-8 cursor-pointer"/>{" "}
-            </a>
+            </a> */}
           </li>
 
         </ul>
