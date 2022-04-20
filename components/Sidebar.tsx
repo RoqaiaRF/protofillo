@@ -74,7 +74,7 @@ const Sidebar = () => {
       <p>Contact me </p>
       <div>
         <ul  className="contact-l">
-        <p className="my-2 "> qoraia97@gmail.com </p>
+        {/* <p className="my-2 "> qoraia97@gmail.com </p> */}
         {/* <p className="my-2"> +96277693130</p> */}
           <li>
             <a href="https://t.me/RoqaiaRF">
@@ -82,14 +82,14 @@ const Sidebar = () => {
             </a> 
           </li>
           <li>
-            {/* <a href="https://wa.me/+962799849386">
+             <a href="https://wa.me/+962799849386">
              <ImWhatsapp className="w-8 h-8 cursor-pointer" color="#25D366" />{" "}
             </a>
           </li>
           <li>
-            {/* <a href="mailto:qoraia97@gmail.com">
+             <a href="mailto:qoraia97@gmail.com">
               <FcGoogle className="w-8 h-8 cursor-pointer"/>{" "}
-            </a> */}
+            </a> 
           </li>
 
         </ul>
