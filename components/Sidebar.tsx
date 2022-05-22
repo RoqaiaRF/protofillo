@@ -49,7 +49,7 @@ const Sidebar = () => {
          <a href="mailto:qoraia97@gmail.com">
               <FcGoogle className="w-8 h-8 cursor-pointer"/>{" "}
             </a>
-        <a href="https://www.linkedin.com/in/roqaia-alrfou-7b9468219/" >
+        <a href="https://www.linkedin.com/in/roqaia-a-7b9468219" >
           <AiFillLinkedin className="w-8 h-8 cursor-pointer" color="#0e76a8"/>
         </a>
         <a href="https://github.com/RoqaiaRF">
