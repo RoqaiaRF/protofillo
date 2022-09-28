@@ -92,7 +92,7 @@ export const tools: Skill[] = [
   },
   {
     Icon: BsCircleFill,
-    name: "cPanel",
+    name: "TypeScript",
     level: "45",
   }, {
     Icon: BsCircleFill,
