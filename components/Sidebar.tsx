@@ -65,8 +65,7 @@ const Sidebar = () => {
         <div className="flex items-center justify-center">
           <GoLocation className="mr-2" /> <span>Amman, Jordan </span>
         </div>
-        {/* <p className="my-2 "> qoraia97@gmail.com </p>
-        <p className="my-2"> +96277693130</p> */}
+
       </div>
 
       {/* Email Button */}
@@ -74,8 +73,7 @@ const Sidebar = () => {
       <p>Contact me </p>
       <div>
         <ul  className="contact-l">
-        {/* <p className="my-2 "> qoraia97@gmail.com </p> */}
-        {/* <p className="my-2"> +96277693130</p> */}
+   
           <li>
             <a href="https://t.me/RoqaiaRF">
               <FaTelegramPlane className="w-8 h-8 cursor-pointer" color="#229ED9" />{" "}
@@ -99,7 +97,6 @@ const Sidebar = () => {
         onClick={changeTheme}
         className="w-8/12 px-5 py-2 my-4 text-white bg-black rounded-full cursor-pointer bg-gradient-to-r from-green to-blue-500 focus:outline-none hover:scale-105"
       >
-        {/* //TODO remove bg black */}
         Toggle Theme
       </button>
     </>

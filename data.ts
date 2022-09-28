@@ -162,6 +162,16 @@ export const projects: IProject[] = [
       "A web app that sends WhatsApp messages without saving the number.",
     key_techs: ["ejs", "node", "express"],
   },
+  {
+    name: "Whatsapp chatbot",
+    image_path: "/images/chatbot.jpeg",
+    deployed_url: "https://wa.me/+96560678237",
+    github_url: "https://github.com/RoqaiaRF/dialog360_bot_snapbot",
+    category: ["node", "express"],
+    description:
+      "Dynamic whatssapp chatbot using Twilio provider ",
+    key_techs: [ "node", "express"],
+  },
 
   {
     name: "landing page for an electrical company",

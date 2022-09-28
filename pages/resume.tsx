@@ -25,7 +25,14 @@ const Resume = () => {
             <p className="font-semibold">Timlands LTD  ( 6/2021 - 2/2022)</p>
             <p className="my-3"> Writing clean code for the front and back end of the software & Developing APIs and RESTful services</p>
           </div>
+          <div className="">
+            <h5 className="my-2 text-xl font-bold"> Back-end NodeJs Developer</h5>
+            <p className="font-semibold">Snapbot  ( 2/2022 - 9/2022)</p>
+            <p className="my-3"> Working on NodeJS, ExpressJs, Redis to build real time WhatssApp chatbot using Twilio provider</p>
+          </div>
         </div>
+
+        
       </div>
 
       {/*Languages & Tools */}
