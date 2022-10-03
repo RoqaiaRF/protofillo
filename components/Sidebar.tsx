@@ -33,7 +33,7 @@ const Sidebar = () => {
       </p>
       {/* Resume */}
       <a
-        href="https://drive.google.com/file/d/14H0tLpfclHwMUNTIem5OYrLfKwBrc6mC/view?usp=sharing"
+        href="https://drive.google.com/file/d/1teaN68eqoAVPEHgLiNwVPUyTrBfvrcGK/view?usp=sharing"
         download="Roqaia Alrfou.pdf"
         className="flex items-center justify-center px-2 py-1 my-2 bg-gray-200 rounded-full cursor-pointer dark:bg-dark-200 dark:bg-black-500"
       >
