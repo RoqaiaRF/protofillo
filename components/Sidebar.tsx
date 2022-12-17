@@ -80,7 +80,7 @@ const Sidebar = () => {
             </a> 
           </li>
           <li>
-             <a href="https://wa.me/+962799849386">
+             <a href="https://api.whatsapp.com/send/?phone=962799849386">
              <ImWhatsapp className="w-8 h-8 cursor-pointer" color="#25D366" />{" "}
             </a>
           </li>
